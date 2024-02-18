@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">mad_cw1</string>
+
+    <string name="txt1">Экран 1</string>
+
+
+    <string name="but_1">Красный</string>
+    <string name="but_2">Синий</string>
+    <string name="but_3">Желтый</string>
+    <string name="but_4">Зеленый</string>
+</resources>
