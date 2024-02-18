@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">mad_cw2</string>
+
+    <string name="txt1">Игра угадайка</string>
+
+
+    <string name="nomer_1">Число 1</string>
+    <string name="nomer_2">Число 2</string>
+    <string name="but_1">Обновить</string>
+    <string name="but_2">Это</string>
+    <string name="but_3">Это</string>
+</resources>
