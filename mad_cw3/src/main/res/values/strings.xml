@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">mad_cw3</string>
+
+    <string name="main_screen">Основной экран</string>
+    <string name="btncar">Тип машины</string>
+    <string name="btnage">Возраст водителя</string>
+    <string name="btncrash">Аварии</string>
+    <string name="btncount">Посчитать</string>
+    <string name="countresult">Ваши данные</string>
+
+    <string name="car_screen">Тип машины</string>
+    <string name="car_C">Кабриолет</string>
+    <string name="car_P">Пикап</string>
+    <string name="car_S">Седан</string>
+
+    <string name="age_screen">Каков твой возраст?</string>
+    <string name="rb1">18-25</string>
+    <string name="rb2">26-60</string>
+    <string name="rb3">60+</string>
+
+    <string name="crash_screen">Аварии/Штрафы?</string>
+    <string name="ch1">Аварии</string>
+    <string name="ch2">Штрафы</string>
+    <string name="btnback">Вернуться</string>
+
+</resources>
