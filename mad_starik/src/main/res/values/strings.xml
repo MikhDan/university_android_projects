@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">mad_starik</string>
+
+    <string name="t1">Starik</string>
+    <string name="t2">Up</string>
+    <string name="t3">Down</string>
+    <string name="t4">Left</string>
+    <string name="t5">Right</string>
+    <string name="t6">Start</string>
+    <string name="t7">Stop</string>
+</resources>
